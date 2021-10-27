@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT experience
 - 🌱 I’m currently learning JAVA,DATA BASE 
 - 💞️ I’m looking to collaborate on a internship and IT job
-- 📫 To reach me by email
+- 📫 To reach me by LinkedIn
 
 <!---
 LucasChrispim/LucasChrispim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
